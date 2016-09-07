@@ -1,0 +1,5 @@
+D:\DrawShape\Entity\bin\Debug\Entity.dll
+D:\DrawShape\Entity\bin\Debug\Entity.pdb
+D:\DrawShape\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\DrawShape\Entity\obj\Debug\Entity.dll
+D:\DrawShape\Entity\obj\Debug\Entity.pdb
